@@ -1,0 +1,65 @@
+/* Type Selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f8f9;
+    color: #1d3557;
+    margin: 0;
+}
+
+/* Type Selector */
+p {
+    line-height: 1.6;
+}
+
+/* Class Selector */
+.card {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid #457b9d;
+    border-radius: 10px;
+}
+
+/* ID Selector */
+#top {
+    background-color: #1d3557;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 5px solid #a8dadc;
+}
+
+/* Navigation */
+nav {
+    background-color: #457b9d;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a8dadc;
+}
+
+/* Section Styling */
+section {
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid #a8dadc;
+    background-color: white;
+}
+
+/* Footer */
+footer {
+    background-color: #1d3557;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
